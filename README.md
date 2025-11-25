@@ -1,7 +1,7 @@
 # HandSigns_to_Text_conversion
 
 This project enables real-time hand sign detection and conversion into text using a machine learning model trained on hand landmarks captured via MediaPipe.
----
+
 **Overview**
 - Detects hand gestures (A–Z, SPACE, NEXTLINE, DELETE)
 - Normalizes hand positions for consistent predictions
